@@ -1,16 +1,9 @@
 # chat_ui_project
 
-A new Flutter project.
+# Simple Chat Screen UI with Flutter
 
-## Getting Started
+This application is a single screen user interface. There is no backend yet 🙂
 
-This project is a starting point for a Flutter application.
+## Screenshot
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (179)](https://user-images.githubusercontent.com/79677353/209020812-632b6d47-aeea-4431-9474-030a0e37ae21.png)
