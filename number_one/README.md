@@ -4,7 +4,7 @@ A new Flutter project.
 
 Simple flutter program that generates random numbers
 
-Updates:
+Updates to make:
 Load new number on button click
 
 ## Getting Started
