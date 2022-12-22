@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+Simple flutter program that generates random numbers
+
+Updates:
+Load new number on button click
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
