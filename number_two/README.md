@@ -1,6 +1,6 @@
 # number_two
 
-Adding images in flutter
+## Adding images in flutter
 
 Here I explored the two types of images that can be added in flutter
 
