@@ -1,6 +1,11 @@
 # number_two
 
-A new Flutter project.
+## Adding images in flutter
+
+Here I explored the two types of images that can be added in flutter
+
+Network Images (images from the internet) and
+Asset Images (images from your local disk)
 
 ## Getting Started
 

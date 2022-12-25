@@ -1,6 +1,11 @@
 # guessing_game_app
 
-A new Flutter project.
+A simple number guessing game app in Flutter
+
+## Screenshot
+
+![Screenshot (182)](https://user-images.githubusercontent.com/79677353/209238737-cf742cb6-d088-4f45-8b85-30dde685ce2e.png)
+
 
 ## Getting Started
 
