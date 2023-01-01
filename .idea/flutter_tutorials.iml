@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/chat_ui_project/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/chat_ui_project/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chat_ui_project/build" />
+      <excludeFolder url="file://$MODULE_DIR$/number_eleven/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/number_eleven/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/number_eleven/build" />
+      <excludeFolder url="file://$MODULE_DIR$/number_twelve/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/number_twelve/build" />
+      <excludeFolder url="file://$MODULE_DIR$/number_twelve/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/number_six/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/number_six/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/number_six/build" />
+      <excludeFolder url="file://$MODULE_DIR$/number_one/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/number_one/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/number_one/build" />
+      <excludeFolder url="file://$MODULE_DIR$/guessing_game_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/guessing_game_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/guessing_game_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/number_ten/build" />
+      <excludeFolder url="file://$MODULE_DIR$/number_ten/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/number_ten/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/number_fourteen/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/number_fourteen/build" />
+      <excludeFolder url="file://$MODULE_DIR$/number_fourteen/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/number_eight/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/number_eight/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/number_eight/build" />
+      <excludeFolder url="file://$MODULE_DIR$/number_thirteen/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/number_thirteen/build" />
+      <excludeFolder url="file://$MODULE_DIR$/number_thirteen/.dart_tool" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
